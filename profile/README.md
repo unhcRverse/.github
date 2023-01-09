@@ -1,4 +1,4 @@
-## Welome to {unhcrverse} 👋
+## Welome to {unhcrverse} 
 
 <!--
 
@@ -11,8 +11,18 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-unhcrverse is an organisation account that host the stable-enough version of R packages developped by UNHCR Staff.
+{unhcrverse} is an organisation account that host the stable-enough version of R packages developped by UNHCR Staff.
 
-In additions, it acts as a directory ofshowcased projects and a repository for discussions between developpers
+you can install all unhcrverse}  with 
+
+```{r}
+install.packages("pak")
+pak::pkg_install("unhcRverse/unhcRverse")
+unhcrverse::unhcrverse()
+
+```
+
+
+In additions, it acts as a directory of show-cased projects as well as an open [repository for discussions](https://github.com/unhcRverse/unhcRverse/issues) between developpers.
 
 Please visit - https://unhcrverse.github.io/unhcRverse/
