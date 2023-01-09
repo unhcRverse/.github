@@ -11,9 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-{unhcrverse} is an organisation account hosting the "_stable-enough_" version of R packages developped by UNHCR Staff.
-
-you can install all unhcrverse}  with 
+`{unhcrverse}` is an organisation account hosting "_stable-enough_" versions of R packages developped by UNHCR Staff. you can install all 
+`{unhcrverse}`  with 
 
 ```{r}
 install.packages("pak")
