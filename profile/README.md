@@ -16,12 +16,12 @@
 
 ```{r}
 install.packages("pak")
-pak::pkg_install("unhcRverse/unhcRverse")
+pak::pkg_install("unhcrverse/unhcrverse")
 unhcrverse::unhcrverse()
 
 ```
 
 
-In additions, it acts as a directory of show-cased projects as well as an open [repository for discussions](https://github.com/unhcRverse/unhcRverse/issues) between developpers.
+In additions, it acts as a directory of show-cased projects as well as an open [repository for discussions](https://github.com/unhcrverse/unhcrverse/issues) between developpers.
 
-Please visit - https://unhcrverse.github.io/unhcRverse/
+Please visit - https://unhcrverse.github.io/unhcrverse/
