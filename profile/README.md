@@ -25,3 +25,5 @@ unhcrverse::unhcrverse()
 In additions, it acts as a directory of show-cased projects as well as an open [repository for discussions](https://github.com/unhcrverse/unhcrverse/issues) between developpers.
 
 Please visit - https://unhcrverse.github.io/unhcrverse/
+
+You can also go through training content here: https://unhcrverse.github.io/unhcrverse/learn
