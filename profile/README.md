@@ -14,6 +14,8 @@
 `{unhcrverse}` is an organisation account showcasing "_stable-enough_" versions of R packages developped by UNHCR Staff. you can install all 
 `{unhcrverse}`  with 
 
+unhcRverse R packages = https://unhcRverse.r-universe.dev/builds
+
 ```{r}
 install.packages("pak")
 pak::pkg_install("unhcrverse/unhcrverse")
